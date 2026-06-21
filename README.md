@@ -13,7 +13,6 @@ This package ships the generated `pubsub_api_pb2` and `pubsub_api_pb2_grpc` modu
 ```bash
 pip install sfprotostash
 ```
-https://pypi.org/manage/project/sfprotostash/release/0.1.0/
 
 `grpcio` and `protobuf` are pulled in automatically as dependencies.
 
