@@ -7,7 +7,7 @@ This package ships the generated `pubsub_api_pb2` and `pubsub_api_pb2_grpc` modu
 
 ## Installation
 
-[Official Pypi Page](https://pypi.org/manage/project/sfprotostash/release/0.1.0/.html).
+[Official Pypi Page](https://pypi.org/manage/project/sfprotostash/release/0.1.0/).
 
 
 ```bash
